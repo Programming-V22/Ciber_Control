@@ -1,0 +1,12 @@
+C:\Users\Jhony\Desktop\U.A.G.R.M\2020\7semestre\Sistemas Operativos ll-Lic.Edwin Calizaya\proyecto\Nueva carpeta\300 C# Project\Socket\Server\Server\obj\Debug\Server.exe
+C:\Users\Jhony\Desktop\U.A.G.R.M\2020\7semestre\Sistemas Operativos ll-Lic.Edwin Calizaya\proyecto\Nueva carpeta\300 C# Project\Socket\Server\Server\obj\Debug\Server.pdb
+C:\Users\Jhony\Desktop\U.A.G.R.M\2020\7semestre\Sistemas Operativos ll-Lic.Edwin Calizaya\proyecto\Nueva carpeta\300 C# Project\Socket\Server\Server\bin\Debug\Server.exe
+C:\Users\Jhony\Desktop\U.A.G.R.M\2020\7semestre\Sistemas Operativos ll-Lic.Edwin Calizaya\proyecto\Nueva carpeta\300 C# Project\Socket\Server\Server\bin\Debug\Server.pdb
+C:\Users\Jhony\Desktop\U.A.G.R.M\2020\7semestre\Sistemas Operativos ll-Lic.Edwin Calizaya\proyecto\Nueva carpeta\300 C# Project\Socket\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Jhony\Desktop\U.A.G.R.M\2020\7semestre\Sistemas Operativos ll-Lic.Edwin Calizaya\proyecto\Nueva carpeta\300 C# Project\Socket\Server\Server\obj\Debug\Server.FrmMain.resources
+C:\Users\Jhony\Desktop\U.A.G.R.M\2020\7semestre\Sistemas Operativos ll-Lic.Edwin Calizaya\proyecto\Nueva carpeta\300 C# Project\Socket\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Jhony\Desktop\U.A.G.R.M\2020\7semestre\Sistemas Operativos ll-Lic.Edwin Calizaya\proyecto\Nueva carpeta\300 C# Project\Socket\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Jhony\Desktop\U.A.G.R.M\2020\7semestre\Sistemas Operativos ll-Lic.Edwin Calizaya\proyecto\CIBER CONTROL\socket chat\Socket\Server\Server\obj\Debug\Server.exe
+C:\Users\Jhony\Desktop\U.A.G.R.M\2020\7semestre\Sistemas Operativos ll-Lic.Edwin Calizaya\proyecto\CIBER CONTROL\socket chat\Socket\Server\Server\obj\Debug\Server.pdb
+C:\Users\Jhony\Desktop\U.A.G.R.M\2020\7semestre\Sistemas Operativos ll-Lic.Edwin Calizaya\proyecto\CIBER CONTROL\Socket\Server\Server\obj\Debug\Server.exe
+C:\Users\Jhony\Desktop\U.A.G.R.M\2020\7semestre\Sistemas Operativos ll-Lic.Edwin Calizaya\proyecto\CIBER CONTROL\Socket\Server\Server\obj\Debug\Server.pdb

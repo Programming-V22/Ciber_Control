@@ -1,0 +1,17 @@
+C:\Users\Jhony\Desktop\U.A.G.R.M\2020\7semestre\Sistemas Operativos ll-Lic.Edwin Calizaya\proyecto\Nueva carpeta\300 C# Project\Socket\Client\Client\obj\Debug\Client.exe
+C:\Users\Jhony\Desktop\U.A.G.R.M\2020\7semestre\Sistemas Operativos ll-Lic.Edwin Calizaya\proyecto\Nueva carpeta\300 C# Project\Socket\Client\Client\obj\Debug\Client.pdb
+C:\Users\Jhony\Desktop\U.A.G.R.M\2020\7semestre\Sistemas Operativos ll-Lic.Edwin Calizaya\proyecto\Nueva carpeta\300 C# Project\Socket\Client\Client\bin\Debug\Client.exe
+C:\Users\Jhony\Desktop\U.A.G.R.M\2020\7semestre\Sistemas Operativos ll-Lic.Edwin Calizaya\proyecto\Nueva carpeta\300 C# Project\Socket\Client\Client\bin\Debug\Client.pdb
+C:\Users\Jhony\Desktop\U.A.G.R.M\2020\7semestre\Sistemas Operativos ll-Lic.Edwin Calizaya\proyecto\Nueva carpeta\300 C# Project\Socket\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\Jhony\Desktop\U.A.G.R.M\2020\7semestre\Sistemas Operativos ll-Lic.Edwin Calizaya\proyecto\Nueva carpeta\300 C# Project\Socket\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Jhony\Desktop\U.A.G.R.M\2020\7semestre\Sistemas Operativos ll-Lic.Edwin Calizaya\proyecto\Nueva carpeta\300 C# Project\Socket\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Jhony\Desktop\U.A.G.R.M\2020\7semestre\Sistemas Operativos ll-Lic.Edwin Calizaya\proyecto\CIBER CONTROL\socket chat\Socket\Client\Client\obj\Debug\Client.exe
+C:\Users\Jhony\Desktop\U.A.G.R.M\2020\7semestre\Sistemas Operativos ll-Lic.Edwin Calizaya\proyecto\CIBER CONTROL\socket chat\Socket\Client\Client\obj\Debug\Client.pdb
+C:\Users\Jhony\Desktop\U.A.G.R.M\2020\7semestre\Sistemas Operativos ll-Lic.Edwin Calizaya\proyecto\CIBER CONTROL\socket chat\Socket\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Jhony\Desktop\U.A.G.R.M\2020\7semestre\Sistemas Operativos ll-Lic.Edwin Calizaya\proyecto\CIBER CONTROL\socket chat\Socket\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\Jhony\Desktop\U.A.G.R.M\2020\7semestre\Sistemas Operativos ll-Lic.Edwin Calizaya\proyecto\CIBER CONTROL\socket chat\Socket\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Jhony\Desktop\U.A.G.R.M\2020\7semestre\Sistemas Operativos ll-Lic.Edwin Calizaya\proyecto\CIBER CONTROL\socket chat\Socket\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Jhony\Desktop\U.A.G.R.M\2020\7semestre\Sistemas Operativos ll-Lic.Edwin Calizaya\proyecto\CIBER CONTROL\socket chat\Socket\Client\Client\bin\Debug\Client.exe
+C:\Users\Jhony\Desktop\U.A.G.R.M\2020\7semestre\Sistemas Operativos ll-Lic.Edwin Calizaya\proyecto\CIBER CONTROL\socket chat\Socket\Client\Client\bin\Debug\Client.pdb
+C:\Users\Jhony\Desktop\U.A.G.R.M\2020\7semestre\Sistemas Operativos ll-Lic.Edwin Calizaya\proyecto\CIBER CONTROL\Socket\Client\Client\obj\Debug\Client.exe
+C:\Users\Jhony\Desktop\U.A.G.R.M\2020\7semestre\Sistemas Operativos ll-Lic.Edwin Calizaya\proyecto\CIBER CONTROL\Socket\Client\Client\obj\Debug\Client.pdb
